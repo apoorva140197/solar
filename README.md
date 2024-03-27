@@ -7,3 +7,6 @@
 5. Run 'npm i' in terminal.
 6. Now run 'npm run start' in terminal.
 7. The project should accessible on your localhost:3000 or any other available port.
+
+
+Note- working fine with node-version : v16.17.1
